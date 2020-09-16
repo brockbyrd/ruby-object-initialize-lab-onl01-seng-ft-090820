@@ -5,9 +5,6 @@ class Dog
   end
 
   def initialize_breed(breed, mutt = nil)
-    if
     @breed = breed
-  else
-    "mutt"
   end
 end
